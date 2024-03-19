@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or questions, feel free to reach out to me at [your-email@example.com](mailto:hemalathaprakasam219@gmail.com).
 
-deployed link - [GIT_Pages](https://hemuprabu.github.io/week1-challenge/)
+deployed link - [GIT_Pages]( https://hemuprabu.github.io/challenge2/)
 
 Git Link: [Github_URL](https://github.com/hemuprabu/challenge2)
 
