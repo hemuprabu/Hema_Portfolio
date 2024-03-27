@@ -1,4 +1,4 @@
-# challenge2
+# Hema_Portfolio
 # Personal Portfolio Application
 
 This is a personal portfolio application built with HTML, CSS, and JavaScript. It showcases your skills, projects, and experiences in a visually appealing way.
